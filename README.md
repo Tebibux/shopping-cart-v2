@@ -43,4 +43,6 @@ src/
   ├── ...
 
 components/: Contains React components responsible for rendering products, the shopping cart, and other UI elements.
+
+
 App.js: The main application component where you can set up routes and manage the overall application state.
